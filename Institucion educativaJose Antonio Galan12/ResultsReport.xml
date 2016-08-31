@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes" ?>
+
+<mm_report>
+	<mm_reportname>	ResultsReport.xml</mm_reportname>
+	<mm_reportdate>07/27/16 22:59:02</mm_reportdate>
+	<mm_reportlocation>D:\\Institucion educativaJose Antonio Galan1\</mm_reportlocation>
+	<mm_reportitem>
+		<mm_file>[documento actual]</mm_file>
+		<mm_displaystr><![CDATA[ var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgRight:"SpryAssets/SpryMenuBarRightHover.gif"}); ]]></mm_displaystr>
+		<mm_data mm_rangemin="1244" mm_rangemax="1252" mm_filename="D:\Institucion educativaJose Antonio Galan1\index.html" mm_replaced="false" mm_matchedtextdirty="false" />
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_file>[documento actual]</mm_file>
+		<mm_displaystr><![CDATA[ var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgRight:"SpryAssets/SpryMenuBarRightHover.gif"}); ]]></mm_displaystr>
+		<mm_data mm_rangemin="1280" mm_rangemax="1288" mm_filename="D:\Institucion educativaJose Antonio Galan1\index.html" mm_replaced="false" mm_matchedtextdirty="false" />
+	</mm_reportitem>
+</mm_report>
